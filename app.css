@@ -9,7 +9,13 @@ body {
     background-color: #efefef;
 }
 
-.container {
+.container1 {
+    max-width: 60%;
+    margin: auto;
+    margin-bottom: 2px;
+}
+
+.container2 {
     max-width: 60%;
     margin: auto;
 }
@@ -21,7 +27,7 @@ body {
 }
 
 .logo {
-    width: 200px;
+    width: 180px;
     vertical-align: middle;
 }
 
@@ -30,3 +36,8 @@ body {
     background-color: white;
 }
 
+/* body del sito web */
+.page-content {
+    padding-top: 40px;
+    background-color: blueviolet;
+}
