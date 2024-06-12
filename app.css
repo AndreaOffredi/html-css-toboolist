@@ -4,8 +4,19 @@
   padding: 0;
 }
 
+/* layout sito web */
+body {
+    background-color: #efefef;
+}
+
+.container {
+    max-width: 60%;
+    margin: auto;
+}
+
+/* header del sito */
 .page-header {
-    background-color: black;
+    background-color: white;
     padding: 5px 20px;
 }
 
@@ -14,4 +25,8 @@
     vertical-align: middle;
 }
 
+
+.bg-white {
+    background-color: white;
+}
 
